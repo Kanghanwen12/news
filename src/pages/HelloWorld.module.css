@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+.hw {
+    width: 100%;
+    /*height: 100px;*/
+    background: #fff;
+}
+.content {
+    padding: 10px;
+}
+
+.btn{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.descClass{
+  color: #5cacf8;
+  font-size: 12px;
+  cursor: pointer
+}
+.main {
+  width: 100%;
+  background: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.btns {
+  margin-left: 20px;
+}
+.from{
+  padding-left: 100px;
+  padding-top: 20px;
+  background: white;
+  min-height: 400px;
+  position: relative;
+}
+.adds {
+  /*position: relative;*/
+}
+.icons1{
+  position: absolute;
+  top: -50px;
+  right: 480px;
+  font-size: 22px;
+  color: #4090f7 !important;
+}
+
+
+
